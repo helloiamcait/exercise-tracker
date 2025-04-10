@@ -1,7 +1,4 @@
 # 🏋️‍♀️ Exercise Tracker
-![GitHub](https://img.shields.io/github/license/your-username/exercise-tracker)
-![Issues](https://img.shields.io/github/issues/your-username/exercise-tracker)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/exercise-tracker)
 ![Frontend](https://img.shields.io/badge/frontend-react-blue)
 ![Backend](https://img.shields.io/badge/backend-express-green)
 
