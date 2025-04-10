@@ -1,0 +1,18 @@
+# Global
+.DS_Store
+node_modules/
+dist/
+.env
+.env.local
+*.log
+
+# React (Vite) specific
+exercise_react/node_modules/
+exercise_react/dist/
+exercise_react/.vite/
+exercise_react/.eslintcache
+
+# REST backend specific
+exercise_rest/node_modules/
+
+.vscode/

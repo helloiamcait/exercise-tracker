@@ -1,0 +1,105 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+/* Add a body rule that defines the font-family, background-color, color, margin, and padding for the app. */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+  color:rgb(1, 32, 60);
+  margin: auto;
+  padding: 20px;
+  align-items: start;
+}
+
+a {
+  color: rgb(36, 112, 179);
+}
+
+a:hover {
+  color: rgb(12, 70, 121);
+}
+
+.app-header {
+  margin-bottom: 20px;
+}
+.app-header h1 {
+  margin-bottom: 10px;
+}
+
+.app-nav {
+  width: 100%;
+  vertical-align: middle;
+  margin-bottom: 4rem;
+}
+
+.app-nav a {
+  background-color: rgb(36, 112, 179);
+  font-weight: 600;
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 8px;
+  color: rgb(244, 244, 244);
+}
+
+.app-nav a:hover {
+  background-color: rgb(12, 70, 121);
+}
+
+.app-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.app-table tr,
+th {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 2px solid rgb(12, 70, 121);;
+}
+
+.app-table tr, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid rgb(12, 70, 121);;
+}
+
+.app-footer {
+  margin-top: 60px;
+}
+
+.app-form input {
+  font-family: monospace;
+  width: 100px;
+  color: rgb(1, 32, 60);
+  background-color: aliceblue;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: rgb(1, 32, 60);
+}
+
+.app-form select {
+  font-family: monospace;
+  color: rgb(1, 32, 60);
+  background-color: aliceblue;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: rgb(1, 32, 60);
+}
+
+.app-form button {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-color: rgb(12, 70, 121);
+  color: rgb(1, 32, 60);
+  background-color: aliceblue;
+  padding: 5px 30px;
+}
+.app-form button:hover {
+  background-color: rgb(225, 240, 252);
+}
