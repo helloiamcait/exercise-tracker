@@ -15,7 +15,7 @@ The **Exercise Tracker** is a full-stack web application that helps users log an
 
 ## 📸 Screenshots
 
-![exercise tracker screenshot](src/assets/Screenshot-exercise-tracker.png)
+![exercise tracker screenshot](exercise_react/src/assets/Screenshot-exercise-tracker.png)
 
 ## 🧰 Tech Stack
 
